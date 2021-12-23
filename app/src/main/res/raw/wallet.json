@@ -1,0 +1,26 @@
+[
+  {
+    "number": "1234567812345678",
+    "cvv": "123",
+    "balance": {
+      "value": "292750",
+      "currency": "TL"
+    },
+    "pendingBalance": {
+      "value": "50000",
+      "currency": "TL"
+    }
+  },
+  {
+    "number": "1234123412341234",
+    "cvv": "321",
+    "balance": {
+      "value": "400050",
+      "currency": "TL"
+    },
+    "pendingBalance": {
+      "value": "40000",
+      "currency": "TL"
+    }
+  }
+]
